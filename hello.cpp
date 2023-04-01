@@ -2,6 +2,6 @@
 using namespace std;
 int manin()
 {
-cout<<Hello world";
+cout<<"Hello world";
 return 0;
 }
